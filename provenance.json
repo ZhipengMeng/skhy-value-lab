@@ -1,0 +1,15 @@
+{
+  "company": "SKHY",
+  "version": "2.0",
+  "snapshotDate": "2026-10-09",
+  "publicationDate": "2026-10-11",
+  "modelSha256": "d5b4f10e1cbd99a012f53889b331fe6d574917102d558a970e6a3d0295b2a79b",
+  "engineSha256": "acfd051ced96b7065595f5e6db0ce98da0a678791dfd6005af84c4815b10ffe9",
+  "scenarioValues": {
+    "downside": 92.73330228025239,
+    "central": 286.1170167815932,
+    "upside": 650.5770687750896
+  },
+  "comparisonURL": "https://zhipengmeng.github.io/mu-value-lab/comparison/",
+  "method": "Public navigation and portable verification added; original financial inputs and engine preserved."
+}
